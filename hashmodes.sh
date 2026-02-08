@@ -10,7 +10,6 @@ show_banner() {
     echo -e "${BLUE}================================${NC}"
     echo -e "${GREEN}   Hashcat Mode Finder${NC}"
     echo -e "${BLUE}================================${NC}"
-    echo -e "${YELLOW}Web App: https://karthikparambil.github.io/Hashmode${NC}"
     echo ""
 }
 
